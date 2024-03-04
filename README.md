@@ -1,4 +1,4 @@
-# 你好👋
+# 你好👋 这里是【萌萌云】
 
 ## 介绍
 该服务的核心功能是【通知】
@@ -8,7 +8,7 @@
 通知平台包括但不限于qq、微信公众号等，使用效果详细请看演示⬇️
 
 ## 演示：
-这里放一个视频演示 @cuiheng，演示你怎么用的
+[bilibili演示](https://www.bilibili.com/video/BV12y421q7FP/?spm_id_from=333.880.my_history.page.click)
 
 ## 使用方式
 
